@@ -1,0 +1,25 @@
+{
+  "name": "kernelsu",
+  "version": "3.0.2",
+  "description": "Library for KernelSU's module WebUI",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elgorythm/Liberate.git"
+  },
+  "keywords": [
+    "su",
+    "kernelsu",
+    "module",
+    "webui"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/elgorythm/Liberate/issues"
+  },
+  "homepage": "https://github.com/elgorythm/Liberate#readme"
+}

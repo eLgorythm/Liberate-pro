@@ -1,0 +1,11 @@
+# Cloudflare Pages Configuration for Liberate-Pro
+name = "liberate-pro-docs"
+compatibility_date = "2025-08-04"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = "docs/.vitepress/dist"
+
+[env.production]
+name = "liberate-pro-docs"
+
+[env.preview]
+name = "liberate-pro-docs-preview"
